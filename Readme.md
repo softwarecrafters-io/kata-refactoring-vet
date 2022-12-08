@@ -1,4 +1,4 @@
-# Kata Camelcase Converter - Testing Sostenible con TypeScript
+# Kata Refactoring Vet - Testing Sostenible con TypeScript
 
 ## Instrucciones
 * `npm install`
